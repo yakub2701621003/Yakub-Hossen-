@@ -1,13 +1,13 @@
 ---------
 
-###  —͟͟͞͞𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️
+###  —͟͟͞͞𝐘𝐀𝐊𝐔𝐁 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ _ ☢️
 ❖ **`A Massanger  Multi Device Bot To Take Your Massanger To Another Level !`** ❖
 
 ----------
 ## CLICK <a href="https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/issues">HERE IF YOU ARE NEW TO BOTS</a>
 
 
-<img src='https://i.imgur.com/ePDUcck.jpeg'/>
+<img src='https://i.postimg.cc/rpPqjrcX/20250802-154343.jpg'/>
 
 -------
 
@@ -29,12 +29,12 @@
 </p>
 
 -----------
-<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD/count.svg" /><br>—͟͟͞͞𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️</div>
+<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD/count.svg" /><br>—͟͟͞͞𝐘𝐀𝐊𝐔𝐁 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ _ ☢️</div>
 
 ------------
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.postimg.cc/rpPqjrcX/20250802-154343.jpg'/></a>
+<a><img src='https://i.postimg.cc/rpPqjrcX/20250802-154343.jpg'/></a>
 
 ### <br>   ❖ DEPLOY_WORKFLOWS ❖
 ```
@@ -190,8 +190,8 @@ src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏ�
 `I extend my heartfelt thanks and gratitude to everyone who helped me in creating this bot.
 
 ### 🔳 Special Thanks:
-- ✨ CYBER RAJIB  
-- 💡 SHAON AHMED  
+- ✨ CYBER Yakub 
+- 💡 Ajmain ayahsan  
 - ⚡ NUZRUL  
 - 🎩 Grandpa EJ  
 - 🛡️ SAHADAT  
@@ -203,9 +203,9 @@ Each of your contributions has been a great inspiration to me.
 
 ---
 
-### [🌺 ｢𝐈 𝐂 𝐂｣ 🌺](https://m.me/j/AbZEOcdMGQYprT74/)
+### [🌺 ｢Y H S｣ 🌺](https://m.me/j/AbZEOcdMGQYprT74/)
 
-### [🌼💋 উ্ঁল্লা্ঁস্ঁ এ্ঁর্ঁ ফে্ঁমা্ঁস্ঁ সি্ঁটি্ঁ 😘🥀](https://m.me/j/AbYQ-A0Ntlobleu9/)  
+### [🌼💋 𝐘𝐚𝐤𝐮𝐛 এ্ঁর্ঁ ফে্ঁমা্ঁস্ঁ সি্ঁটি্ঁ 😘🥀](https://m.me/j/AbYQ-A0Ntlobleu9/)  
 Heartfelt love and gratitude to all the members of this group as well.  
 ---
 
