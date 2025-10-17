@@ -65,10 +65,10 @@ const apis = await axios.get('https://raw.githubusercontent.com/shaonproject/Sha
 
  writer.on("error", (err) => {
  console.error("❌ File write error:", err);
- api.sendMessage("⚠️ ভিডিও ফাইল সেভ করতে সমস্যা হয়েছে!", event.threadID, event.messageID);
+ api.sendMessage("⚠️☢️ ভিডিও ফাইল সেভ করতে সমস্যা হয়েছে!", event.threadID, event.messageID);
  });
  } catch (err) {
  console.error("❌ Shoti API error:", err.message);
- api.sendMessage("❌ শটী ভিডিও আনতে সমস্যা হয়েছে। পরে চেষ্টা করুন।", event.threadID, event.messageID);
+ api.sendMessage("♻️ শটী ভিডিও আনতে সমস্যা হয়েছে। পরে চেষ্টা করুন।", event.threadID, event.messageID);
  }
 };
